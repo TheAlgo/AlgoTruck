@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903970582785",
+    "firebase_url": "https://doverhack-ea63e.firebaseio.com",
+    "project_id": "doverhack-ea63e",
+    "storage_bucket": "doverhack-ea63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903970582785:android:bf12538e92b8135e",
+        "android_client_info": {
+          "package_name": "com.dhirajkumarcoder.android.googlemapspractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903970582785-c50as1415jg3t0556sitqi8klfbr6fg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhirajkumarcoder.android.googlemapspractice",
+            "certificate_hash": "3ee9c7a77f3663335b24ea9954c1d0ab22b62bda"
+          }
+        },
+        {
+          "client_id": "903970582785-bosh112iet43eq0lgobkhn0drj1ide2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQrEXiO11y8VXv1EYZX1eTpf5TFOEWnpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903970582785-bosh112iet43eq0lgobkhn0drj1ide2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
